@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @egyptjoy
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+egyptjoy/egyptjoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+![logo](https://github.com/egyptjoy/egyptjoy/assets/167244539/aa0c4007-ac42-4559-826b-15370fcf9690)
+![microsoft-logo-inverted](https://github.com/egyptjoy/egyptjoy/assets/167244539/f5519970-11f6-4b4d-b3bc-3f68b4b0a8b2)
+![youtube](https://github.com/egyptjoy/egyptjoy/assets/167244539/a69dd38b-efc4-4ad8-89fd-af5f73554a24)
+![twitter](https://github.com/egyptjoy/egyptjoy/assets/167244539/77aea630-b96b-436d-8b27-b63c74acd337)
+![search_dark](https://github.com/egyptjoy/egyptjoy/assets/167244539/1104d18f-9d69-4054-890e-c472222f6196)
+![download-black](https://github.com/egyptjoy/egyptjoy/assets/167244539/fb383c8d-03df-4f6f-af14-ee54105ac86b)
+![download](https://github.com/egyptjoy/egyptjoy/assets/167244539/1ee06306-5098-456c-9087-f24152ccbacb)
