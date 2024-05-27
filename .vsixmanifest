@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+		<Metadata>
+			<Identity Language="en-US" Id="vsmarketplace-badges" Version="1.0.3" Publisher="XuangeAha" />
+			<DisplayName>VSMarketplace Badges</DisplayName>
+			<Description xml:space="preserve">Insert version, installs and rating badges for VSMarketplace extensions easily to your HTML or Markdown pages.</Description>
+			<Tags>badge,badges,icon,ico,divider,print,code,coding,codings,py,python,jupyter,java,php,js,javascript,c,c++,c#,html,css,debug,debugger,debuggers,divide,git,github,vs,vscode,typescript,r,go,rust,swift,ruby,kotlin,objective,objectivec,objective-c,lua,julia,easy,lazy,div,all,language,languages,lan,lang,pro,program,programming,Git,productivity,repository,save,manage,management,gitlab,gitkraken,gitlen,gitlens,gitignore,.gitignore,git-graph,cheatsheet,essential,g,gi,just,enough,object,main,origin,remote,rm,remove,push,pull,fetch,clone,pack,master,star,stars,issue,issues,project,projects,package,packages,tag,tags,asset,assets,wiki,wikis,tool,tools,branch,branches,request,requests,set,setting,settings</Tags>
+			<Categories>Azure,Data Science,Debuggers,Education,Formatters,Keymaps,Language Packs,Linters,Machine Learning,Notebooks,Programming Languages,SCM Providers,Snippets,Testing,Themes,Visualization,Extension Packs,Other</Categories>
+			<GalleryFlags>Public</GalleryFlags>
+			
+			<Properties>
+				<Property Id="Microsoft.VisualStudio.Code.Engine" Value="^1.75.0" />
+				<Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
+				<Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
+				<Property Id="Microsoft.VisualStudio.Code.ExtensionKind" Value="workspace" />
+				<Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
+				
+				
+				<Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/Xuangeaha/VSMarketplace-Badges.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/Xuangeaha/VSMarketplace-Badges.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/Xuangeaha/VSMarketplace-Badges.git" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Support" Value="https://github.com/Xuangeaha/VSMarketplace-Badges/issues" />
+				<Property Id="Microsoft.VisualStudio.Services.Links.Learn" Value="https://github.com/Xuangeaha/VSMarketplace-Badges" />
+				<Property Id="Microsoft.VisualStudio.Services.Branding.Color" Value="#87CEFA" />
+				<Property Id="Microsoft.VisualStudio.Services.Branding.Theme" Value="light" />
+				<Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
+				<Property Id="Microsoft.VisualStudio.Services.Content.Pricing" Value="Free"/>
+
+				
+				
+			</Properties>
+			<License>extension/LICENSE.txt</License>
+			<Icon>extension/logo.png</Icon>
+		</Metadata>
+		<Installation>
+			<InstallationTarget Id="Microsoft.VisualStudio.Code"/>
+		</Installation>
+		<Dependencies/>
+		<Assets>
+			<Asset Type="Microsoft.VisualStudio.Code.Manifest" Path="extension/package.json" Addressable="true" />
+			<Asset Type="Microsoft.VisualStudio.Services.Content.Details" Path="extension/README.md" Addressable="true" />
+<Asset Type="Microsoft.VisualStudio.Services.Content.Changelog" Path="extension/CHANGELOG.md" Addressable="true" />
+<Asset Type="Microsoft.VisualStudio.Services.Content.License" Path="extension/LICENSE.txt" Addressable="true" />
+<Asset Type="Microsoft.VisualStudio.Services.Icons.Default" Path="extension/logo.png" Addressable="true" />
+		</Assets>
+	</PackageManifest>
